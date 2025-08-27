@@ -6,7 +6,13 @@ A<- 7 div 2
 B<- 7 mod 2
 C<- 12 div 3
 
-Escribir " 7 div 2=" ,7 div 2;
-Escribir " 7 mod 2= ", 7 mod 2;
-Escribir " 12 div 3= " , 12 div 3;
+Escribir " A) 7 div 2=" ,7 div 2;
+Escribir " B) 7 mod 2= ", 7 mod 2;
+Escribir " C)12 div 3= " , 12 div 3;
+Escribir "D) 12 mod 3 =",12 mod 3
+Escribir "E)  0 mod 5= ", 0 mod 5;
+Escribir "F)15 mod 5= ",15 mod 5;
+Escribir "G)7 *10-50 mod 3*4*9" ,7 *10-50 mod 3*4*9;
+Escribir "H) (7*(10-5) mod 3)*4+9= ",(7*(10-5) mod 3)*4+9;
+
 FinCodigo
