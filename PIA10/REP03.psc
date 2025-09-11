@@ -1,0 +1,15 @@
+//ORTIZ SALAZAR LUZ DEVORA 
+//ING ANIMACION 
+//599045
+Algoritmo REP03
+	Definir N Como Entero
+	
+	N<- 1
+	Mientras N<= 30 Hacer
+		SI N%2=0 Entonces
+			Escribir N
+			
+		FinSi
+		N<- N+1
+	FinMientras
+FinAlgoritmo
