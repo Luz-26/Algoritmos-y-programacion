@@ -1,0 +1,18 @@
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int A,B,C;
+     cout<<"escribe el primer num ";
+    cin>>A;
+    cout<<"ecrcribir el do num";
+    cin>>B;
+    C=A+B; 
+    cout<<C;
+    
+    
+   
+
+    return 0;
