@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main(){             //definir nombre como caena - psint 
+                //tipo de dato identificacdor 
+
+string nombre;
+cout<<"cual es tu nombre ";//escribir "cul es  t nombre"
+getline (cin,nombre ); // cin es ara leer ua palabla , getline es para leer toda la linea 
+                          //cuando se leen vn a l derecha y cundo se escrive a la izquierda
+cout <<"que lindo nombre"<<nombre;
+                          //escribir que lindo nombre ,"nombre"
+return 0;
+
+
+}
