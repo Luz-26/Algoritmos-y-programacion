@@ -1,0 +1,20 @@
+#inclde<iostream> //librerias 
+
+using namespacestd;
+
+//cada  programa ecesita un traductor de 0,1 a un habla
+//funcion para eje utar 
+int main(){
+    //tipo de dato (int)o generalmente entero 
+    //generalemnte cierra con un 0 
+    
+    
+    //escribir -> cout <<"hola mundo";
+    
+    
+    
+    
+    eturn 0 ;
+    //si se ejecuta co exito el programa retrna a 0 de otr manera
+    //existe un erroro en el programa 
+}
